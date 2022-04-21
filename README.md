@@ -8,8 +8,9 @@
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/starswirl_k/followers.svg)](http://qiita.com/starswirl_k)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starswirl)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starswirl&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starswirl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **starswirl/starswirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
