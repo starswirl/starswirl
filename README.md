@@ -3,12 +3,9 @@
 ![demo](images/01.gif)
 
 ![](https://komarev.com/ghpvc/?username=starswirl&color=blue)
-# My Qiita posts
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/mikkame/posts.svg)](http://qiita.com/starswirl_k)
-# My Qiita contributions
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/mikkame/contributions.svg)](http://qiita.com/starswirl_k)
-# My Qiita followers
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/mikkame/followers.svg)](http://qiita.com/starswirl_k)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/starswirl_k/posts.svg)](http://qiita.com/starswirl_k)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/starswirl_k/contributions.svg)](http://qiita.com/starswirl_k)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/starswirl_k/followers.svg)](http://qiita.com/starswirl_k)
 
 <!--
 **starswirl/starswirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
