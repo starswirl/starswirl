@@ -2,7 +2,7 @@
 
 ![demo](images/01.gif)
 
-！[]（https://komarev.com/ghpvc/?username=starswirl&color=green）
+![](https://komarev.com/ghpvc/?username=starswirl&color=green)
 
 <!--
 **starswirl/starswirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
