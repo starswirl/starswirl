@@ -12,4 +12,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starswirl&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="images/01.gif"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starswirl&layout=compact&theme=tokyonight">
+<img src="images/01.gif"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starswirl&theme=tokyonight">
