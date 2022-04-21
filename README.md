@@ -11,7 +11,7 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/starswirl_k/contributions.svg)](http://qiita.com/starswirl_k)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/starswirl_k/followers.svg)](http://qiita.com/starswirl_k)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=starswirl" alt="starswirl" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=starswirl&theme=onedark" alt="starswirl" /></a> </p>
 
 
 
